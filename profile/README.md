@@ -1,5 +1,12 @@
+<div align=center>
+<img src="/profile/scut.jpg" width="50%">
+</div>
+<div align=center>
+<img src="/profile/gmc.png" width="30%">
+</div>
+
 # Welcome to GMC team
-<img src="/profile/scut.jpg" width="30%"> <img src="/profile/gmc.png" width="10%">
+
 ## Who is Us
 
 
