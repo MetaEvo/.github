@@ -5,9 +5,9 @@
 <img src="/profile/gmc.png" width="30%">
 </div>
 
-# Welcome to GMC team
+# :star2: Welcome to GMC team :star2:
 
-## Who is Us
+## :sunglasses: Who is Us
 
 
 We are a research team mainly focus on the [Evolutionary Computing](), [Deep Reinforcement Learning](), [Black Box Optimization]() and [Meta Black Box Optimization](). We belong to the Computational Intelligence Lab, School of Computer Science, South China University of Technology. 
@@ -16,11 +16,11 @@ We are an energetic team including undergraduate students, master students and p
 ***
 ### Advisor
 
-Yue-jiao Gong
+[Prof. Yue-jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN)
 
 ### Student Founder
 
-Zeyuan Ma
+[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN)
 
 Hongshu Guo
 
@@ -28,17 +28,21 @@ Jiacheng Chen
 
 ### Cooperator
 
+[Zhigang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
+
+[Yining Ma](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en&oi=ao)
+
 ***
 
-## What Have We Done
+## :heavy_exclamation_mark: What Have We Done
 ### Publications
 
 ***
-## What is Coming
+## :zap: What is Coming
 ### Recent activities
 
 
-## Contact Us
+## :e-mail: Contact Us
 
 E-mail 
 
