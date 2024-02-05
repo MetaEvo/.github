@@ -20,9 +20,9 @@ We are an energetic team including undergraduate students, master students and p
 
 ### Student Founder
 
-[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (Phd, 22-26)
+[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (PhD, 22-26)
 
-Hongshu Guo (Phd, 22-26)
+Hongshu Guo (PhD, 22-26)
 
 ### Student Member
 #### Undergraduate
