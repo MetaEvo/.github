@@ -93,6 +93,7 @@ Hongshu Guo(phd, 22-26)
 
 ## :e-mail: Contact Us
 
-E-mail 
+You can reach out to ask questions or just chat about us! We are available on E-mail: scut.crazynicolas@gmail.com
+
 
 
