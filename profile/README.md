@@ -35,7 +35,20 @@ Jiacheng Chen
 ***
 
 ## :triangular_flag_on_post: What Have We Done
-### Publications
+### Benchmarking MetaBBO Approaches
+
+| Year | Paper |
+|:---:|:---:|
+| 2023 | Ma, Zeyuan, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." Advances in Neural Information Processing Systems 36 (2023). | 
+
+### Developing MetaBBO Approaches
+
+| Year | Paper |
+|:---:|:---:|
+| 2023 | Jiacheng Chen, et. al. "[**SYMBOL: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" The Twelfth International Conference on Learning Representations (2023) |
+
+### Exploring AGI (AIGC) in Optimization
+
 
 ***
 ## :zap: What is Coming
