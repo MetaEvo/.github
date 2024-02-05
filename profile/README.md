@@ -24,11 +24,25 @@ We are an energetic team including undergraduate students, master students and p
 
 Hongshu Guo
 
-Jiacheng Chen
+### Student Member
+#### Undergraduate
+| Name | Year in Group | Post-Graduation Career |
+|:---:|:---:|:---|
+| Jiacheng Chen | 2021 -      | - |
+| Zhenrui Li    | 2021 - 2023 | - |
+| Wenjie Qiu    | 2023 -      | - |
+
+#### Master
+| Name | Year in Group | Post-Graduation Career |
+|:---:|:---:|:---|
+| Hongqiao Lian | 2021 -      | - |
+| Jiajun Zhan   | 2022 -      | - |
+| Guojun Peng   | 2022 -      | - |
+| Jianhao Liu   | 2022 -      | - |
 
 ### Cooperator
 
-[Zhigang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
+[Prof. Zhigang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
 
 [Yining Ma](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en&oi=ao)
 
@@ -52,6 +66,7 @@ Jiacheng Chen
 
 ***
 ## :zap: What is Coming
+
 ### Recent activities
 
 ## :house: Our Repositories
