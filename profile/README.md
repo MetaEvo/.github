@@ -73,6 +73,12 @@ Hongshu Guo
 ***
 ## :zap: What is Coming
 
+### Student Exchange
+
+| Name | Time | Destination |
+|:---:|:---:|:---:|
+| Jiacheng Chen | 2024/06 - 2024/09 | 
+
 ### Recent activities
 
 ## :house: Our Repositories
