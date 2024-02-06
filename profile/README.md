@@ -81,16 +81,16 @@ Hongshu Guo (PhD, 22-26)
 | Name | Time | Destination |
 |:---:|:---:|:---:|
 | Jiacheng Chen | 2024/06 - 2024/09 | 
-
+***
 ### Recent activities
 
 ## :house: Our Repositories
 
 - [MetaBox](https://github.com/GMC-DRL/MetaBox): The first benchmark platform expressly tailored for developing and evaluating MetaBBO-RL methods.
 - [psc4MetaBBO](https://github.com/GMC-DRL/psc4MetaBBO): A list of useful relevant papers and open source codes for MetaBBO.
-- [SymBol](https://github.com/GMC-DRL/SymBol): The python implementation of our paper [SYMBOL](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt), under construction...
+- [SymBol](https://github.com/GMC-DRL/SymBol): The python implementation of our paper [SYMBOL](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt), which is accepted as a poster paper in ICLR 2024.
 - To be continue
-
+***
 ## :e-mail: Contact Us
 
 You can reach out to ask questions or just chat about us! We are available on E-mail: scut.crazynicolas@gmail.com
