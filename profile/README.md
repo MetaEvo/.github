@@ -78,9 +78,9 @@ Hongshu Guo (PhD, 22-26)
 
 ### Student Exchange
 
-| Name | Time | Destination |
+<!--| Name | Time | Destination |
 |:---:|:---:|:---:|
-| Jiacheng Chen | 2024/06 - 2024/09 |[Computing + Mathematical Sciences (CMS) Department, Caltech](https://www.cms.caltech.edu/) |
+| Jiacheng Chen | 2024/06 - 2024/09 |[Computing + Mathematical Sciences (CMS) Department, Caltech](https://www.cms.caltech.edu/) | -->
 ***
 ### Recent activities
 | Activity | Type | Title |Date|
