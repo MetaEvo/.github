@@ -45,7 +45,7 @@ Hongshu Guo (PhD, 22-26)
 
 ### Cooperator
 
-[Prof. Zhigang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
+[Prof. Zhiguang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
 
 [Yining Ma](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en&oi=ao)
 
