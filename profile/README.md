@@ -91,8 +91,8 @@ Hongshu Guo (PhD, 22-26)
 ### Recent activities
 | Activity | Type | Title |Date|
 |:---:|:---:|:---:|:---:|
-| [AITIME NeurIPS 2023 Pre-Talk](https://www.bilibili.com/video/BV1Hu4y1J7Fs/?spm_id_from=333.999.0.0&vd_source=49c941c3fd65d17510be677726a52bc9)| talk| MetaBox: 面向元黑箱优化兼容的黑箱优化测试平台|2023/11|
-| AITIME ICLR 2024 Pre-Talk| talk| Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning|2024/03|
+| AITIME NeurIPS 2023 Pre-Talk| talk| [MetaBox: 面向元黑箱优化兼容的黑箱优化测试平台](https://www.bilibili.com/video/BV1Hu4y1J7Fs/?spm_id_from=333.999.0.0&vd_source=49c941c3fd65d17510be677726a52bc9)|2023/11|
+| AITIME ICLR 2024 Pre-Talk| talk| [Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning](https://www.bilibili.com/video/BV1qH4y1L7mb/?vd_source=49c941c3fd65d17510be677726a52bc9)|2024/03|
 ## :house: Our Repositories
 
 - [MetaBox](https://github.com/GMC-DRL/MetaBox): The first benchmark platform expressly tailored for developing and evaluating MetaBBO-RL methods, which is accepted at NeurIPS 2023.
