@@ -13,6 +13,14 @@
 We are a research team mainly focus on the [Evolutionary Computing](), [Deep Reinforcement Learning](), [Black Box Optimization]() and [Meta Black Box Optimization](). We belong to the Computational Intelligence Lab, School of Computer Science, South China University of Technology. (Our [homepage](https://gmc-drl.github.io/))
 
 We are an energetic team including undergraduate students, master students and phd students. The student leader in this team is [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN), a phd student at South China University of Technology. Students in GMC team are advised (in part advised) by [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN). This is a pure research-oriented technical team, aiming to develop the new generation of black-box-optimization concepts, algorithms, frameworks and benchmarks. The resulting research domain is commonly named as Meta-Black-Box-Optimization, which generally mitigates the labour-intensive development in traditional black-box optimization algorithms through meta-learning an update rule/algorithmic configuration at the meta level. We believe works done in this team would promote the study edge of both evolutionary computing and optimization. 
+
+## :e-mail: Contact Us
+
+You can reach out to ask questions or just chat about us! 
+
+We are available on E-mail: 1、scut.crazynicolas@gmail.com 2、wukongqwj@gmail.com
+
+**We warmly invite you to join our QQ group for further communication (Group Number: 952185139).**
 ***
 ### Advisor
 
@@ -30,7 +38,6 @@ Hongshu Guo (PhD, 22-26)
 |:---:|:---:|:---|
 | **Jiacheng Chen**(\*co-founder) | 2021 -      | - |
 | Zhenrui Li    | 2021 - 2023 | - |
-| Kaixu Chen    | 2023 -      | - |
 | Wenjie Qiu    | 2023 -      | - |
 | Sijie Ma    | 2023 -      | - |
 | Yuzhi Hu    | 2023 -      | - |
@@ -39,6 +46,7 @@ Hongshu Guo (PhD, 22-26)
 #### Master
 | Name | Year in Group | Post-Graduation Career |
 |:---:|:---:|:---|
+| Kaixu Chen    | 2023 -      | - |
 | Hongqiao Lian | 2023 -      | - |
 | Jiajun Zhan   | 2023 -      | - |
 | Guojun Peng   | 2023 -      | - |
@@ -53,6 +61,12 @@ Hongshu Guo (PhD, 22-26)
 ***
 
 ## :triangular_flag_on_post: What Have We Done
+
+### Survey of MataBBO
+| Year | Paper |
+|:---:|:---:|
+| 2024 | **Zeyuan Ma**, **Hongshu Guo**, et al. "[**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**](https://arxiv.org/abs/2411.00625)." arXiv preprint arXiv:2411.00625 (2024).| 
+
 ### Benchmarking MetaBBO Approaches
 
 | Year | Paper |
@@ -63,8 +77,10 @@ Hongshu Guo (PhD, 22-26)
 
 | Year | Paper |
 |:---:|:---:|
-| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
-| 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
+| 2024 |**Hongshu Guo**\*, **Zeyuan Ma**\*,**Jiacheng Chen** et al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)." arXiv preprint arXiv:2412.07507 (2024).|
+| 2024 | **Zeyuan Ma**,**Jiacheng Chen**,**Hongshu Guo**, et al. "[**Neural exploratory landscape analysis**](https://arxiv.org/abs/2408.10672)." arXiv preprint arXiv:2408.10672 (2024).|
+| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024) |
+| 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
 | 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024) |
 
@@ -102,9 +118,6 @@ Hongshu Guo (PhD, 22-26)
 - [Symbol](https://github.com/GMC-DRL/Symbol): The python implementation of our paper [SYMBOL](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt), which is accepted as a poster paper at ICLR 2024. This is a novel MetaBBO paragidm against the recent proposed ones, refer to the paper for detail.
 - Coming soon
 ***
-## :e-mail: Contact Us
-
-You can reach out to ask questions or just chat about us! We are available on E-mail: scut.crazynicolas@gmail.com
 
 
 
