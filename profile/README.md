@@ -42,6 +42,7 @@ Hongshu Guo (PhD, 22-26)
 | Sijie Ma    | 2023 -      | - |
 | Yuzhi Hu    | 2023 -      | - |
 | Zechuan Huang    | 2023 -      | - |
+| Cheng Wang|2024 - |-| 
 
 #### Master
 | Name | Year in Group | Post-Graduation Career |
