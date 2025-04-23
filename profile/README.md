@@ -27,7 +27,7 @@ We are a research team mainly focus on the [Evolutionary Computing](), [Deep Rei
 
 ## :e-mail: Contact Us
 
-You can reach out to ask questions or just chat about us! 
+Feel free to discuss with us! 
 
 We are available on E-mail: 1、scut.crazynicolas@gmail.com 2、wukongqwj@gmail.com
 
