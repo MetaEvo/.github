@@ -25,6 +25,7 @@ We are a research team mainly focus on the [Evolutionary Computing](), [Deep Rei
 8. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025).
 9. "[**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**](https://arxiv.org/pdf/2505.17745)" (NeurIPS 2025).
 10. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/pdf/2505.17866)" (NeurIPS 2025).
+11. "[**Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering**](https://arxiv.org/abs/2509.15810)" (AAAI 2026).
 
 ## :e-mail: Contact Us
 
