@@ -31,7 +31,7 @@ We are a research team that mainly focuses on the advanced optimization techniqu
 
 Feel free to discuss with us! 
 
-We are available on E-mail: 1、scut.crazynicolas@gmail.com 2、wukongqwj@gmail.com
+We are available on E-mail: 1、mzy@ieee.org 2、wukongqwj@gmail.com
 
 **We warmly invite you to join our QQ group for further communication (Group Number: 952185139).**
 ***
